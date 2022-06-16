@@ -1,0 +1,57 @@
+body {
+    background-color: black;
+    font-family: verdana;
+  }
+
+  .noselect {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+a {
+  background-color: white;
+  width: 160vw;
+  color: black;
+  border-radius: 20px;
+}
+
+.profile-name {
+  text-align: center;
+  color: white;
+
+  padding: 50px;
+  font-size: 28px;
+}
+
+  .container {
+    background-color: white;
+    width: 80vw;
+    color: black;
+    border-radius: 20px;
+  }
+
+  .container h1 {
+    font-size: 300%;
+    margin-bottom: 0;
+  }
+
+  .container h2 {
+    font-size: 250%;
+    margin-bottom: 0;
+  }
+
+  .container p {
+    font-size: 200%;
+    margin-bottom: 0;
+  }
+
+  .container h1,
+  .container h2,
+  .container p {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
